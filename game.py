@@ -21,7 +21,7 @@ while not exit_game:
 
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_RIGHT:
-                print("You have pressed thee right arrow key")
+                print("You have pressed the right arrow key")
 
 pygame.quit()
 quit()
