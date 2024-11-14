@@ -11,7 +11,7 @@ pygame.display.set_caption("Eat Bamboo Eat")
 exit_game = False
 game_over = False
 
-# Game loopsswsss
+# Game loopsswssss
 while not exit_game:
     for event in pygame.event.get():
         print(event)
