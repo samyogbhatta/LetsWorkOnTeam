@@ -5,7 +5,7 @@ x = pygame.init()
 
 # Create game window
 gameWindow = pygame.display.set_mode((1200, 500))
-pygame.display.set_caption("Eat Bamboo0sssss Eat")
+pygame.display.set_caption("Eat Bamboo0ssssss Eat")
 
 # Game-specific variables
 exit_game = False
